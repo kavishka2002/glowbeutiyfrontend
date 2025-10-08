@@ -43,7 +43,7 @@ export default function About() {
               <FaHeart className="text-pink-400 text-3xl mx-auto mb-3" />
               <h3 className="font-semibold text-lg mb-2">Made with Love</h3>
               <p className="text-sm text-gray-300">
-                Every product is created with deep passion and care for your skin.
+                Every product is created with deep passion and care for your skin.s
               </p>
             </motion.div>
 
